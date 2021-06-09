@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring**
 
-- 📝 I regularly write articles on [https://ivyzhao405.github.io/blog/](https://ivyzhao405.github.io/blog/)
+- 📝 I write tech-realted articles on my blog [https://ivyzhao405.github.io/blog/](https://ivyzhao405.github.io/blog/)
 
 - 💬 Ask me about **ML,Backend data system**
 
