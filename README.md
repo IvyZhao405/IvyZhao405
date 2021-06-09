@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivy Zhao</h1>
-<h3 align="center">A passionate Machine Learning & Backend Software Engineer. CS Master @Georgia Tech</h3>
+<h3 align="center">A passionate Machine Learning & Backend Software Engineer</h3>
 
 - 🔭 I’m currently working on [mgallery project](https://github.com/IvyZhao405/mgallery)
 
@@ -10,6 +10,7 @@
 - 💬 Ask me about **ML,Backend data system**
 
 - 📫 How to reach me **ivyzhao405@gmail.com**
+- :school: CS Master @Georgia Tech
 
 
 <h3 align="left">Languages and Tools:</h3>
