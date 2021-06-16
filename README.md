@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mgallery project](https://github.com/IvyZhao405/mgallery)
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Go**
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ivyzhao405?tab=repositories)
 
