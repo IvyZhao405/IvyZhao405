@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivy Zhao</h1>
 <h3 align="center">A passionate Machine Learning & Backend Software Engineer</h3>
 
-- 🔭 I’m currently working on [mgallery project](https://github.com/IvyZhao405/mgallery)
+- 🔭 I’m currently working on [Distributed Crontab - Golang](https://github.com/IvyZhao405/distributed-crontab)
 
 - 🌱 I’m currently learning **Go**
 
